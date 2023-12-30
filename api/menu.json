@@ -1,0 +1,99 @@
+[
+    {
+        "name": "CAFÉ CHAUD",
+        "products": [
+            {
+                "id": 11,
+                "name": "Americano Noir",
+                "price": 17.10,
+                "description": "Des shots d'espresso fraîchement préparés combinés avec de l'eau chaude.",
+                "image": "blackamericano.png"
+            },
+            {
+                "id": 12,
+                "name": "Cappuccino",
+                "price": 42.19,
+                "description": "Un shot d'espresso fraîchement préparé, superposé avec du lait entier vaporisé et une mousse épaisse et riche pour offrir une texture veloutée luxueuse et un arôme complexe.",
+                "image": "cappuccino.png"
+            },
+            {
+                "id": 13,
+                "name": "Macchiato",
+                "price": 36.48,
+                "description": "Nos cafés parfaitement torréfiés sont mélangés avec nos poudres, du lait écrémé vaporisé et surmontés d'une mousse épaisse pour créer une délicieuse gâterie énergisante.",
+                "image": "macchiato.png"
+            },
+            {
+                "id": 14,
+                "name": "Flat White",
+                "price": 36.48,
+                "description": "Nous commençons avec un shot supplémentaire d'espresso, les combinons avec l'une de nos poudres signature, et terminons avec du lait légèrement aéré pour créer la boisson espresso parfaite et veloutée. Disponible en saveurs noisette, vanille, moka ou flat white classique.",
+                "image": "flatwhite.png"
+            }
+        ]
+    },
+    {
+        "name": "CAFÉ GLACÉ",
+        "products": [
+            {
+                "id": 21,
+                "name": "Frappuccino",
+                "price": 42.19,
+                "description": "Du lait écrémé mélangé avec nos poudres signature et de la glace, puis garni de crème fouettée. Une délicieuse gâterie sans caféine.",
+                "image": "frappuccino.png"
+            },
+            {
+                "id": 22,
+                "name": "Café Glacé",
+                "price": 35.03,
+                "description": "Notre café spécialement infusé servi sur glace pour un goût de café rafraîchissant et audacieux.",
+                "image": "icedcoffee.png"
+            },
+            {
+                "id": 23,
+                "name": "Cold Brew",
+                "price": 17.37,
+                "description": "Notre signature Cold Brew Coffee est un mélange premium de cafés Bali Blue Moon et Éthiopie Yirgacheffe avec chicorée infusé à froid pendant 20 heures pour des saveurs riches et vibrantes.",
+                "image": "coldbrew.png"
+            }
+        ]
+    },
+    {
+        "name": "THÉ",
+        "products": [
+            {
+                "id": 31,
+                "name": "Thé Vert",
+                "price": 14.53,
+                "description": "Comme le thé oolong et le thé noir, le thé vert provient de la plante Camellia sinensis. La saveur délicieusement délicate du thé vert est due à son oxydation minimale. Il est transformé en plusieurs formes, de la poudre finement broyée aux feuilles longues et frisées. Bien qu'il ait son origine en Chine, où il est consommé depuis plus de 4 000 ans, le thé vert est maintenant cultivé au Japon et au Sri Lanka, et apprécié dans le monde entier.",
+                "image": "greentea.png"
+            },
+            {
+                "id": 32,
+                "name": "Thé Noir",
+                "price": 14.53,
+                "description": "Comme les thés vert et oolong, le thé noir provient de la plante Camellia sinensis. Sa teinte plus sombre et son goût plus fort résultent du niveau d'oxydation plus élevé qu'il subit pendant le traitement. De la délicate Darjeeling au fort Ceylan, chaque variété a des caractéristiques distinctes, faisant du thé noir une boisson appréciée dans le monde entier.",
+                "image": "blacktea.png"
+            }
+        ]
+    },
+    {
+        "name": "SNACKS",
+        "products": [
+            {
+                "id": 41,
+                "name": "Croissant",
+                "price": 22.04,
+                "description": "Pâtisserie française en forme de croissant et au beurre.",
+                "image": "croissant.png"
+            },
+            {
+                "id": 42,
+                "name": "Muffin aux Pépites de Chocolat",
+                "price": 14.53,
+                "description": "Les muffins sont incroyablement riches, très chocolatés et chargés de pépites de chocolat à chaque bouchée.",
+                "image": "muffin.png"
+            }
+        ]
+    }
+]
